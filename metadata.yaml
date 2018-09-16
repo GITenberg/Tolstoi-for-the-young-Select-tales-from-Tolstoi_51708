@@ -1,5 +1,5 @@
 _repo: Tolstoi-for-the-young-Select-tales-from-Tolstoi_51708
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Sevier, Michel
@@ -12,6 +12,9 @@ contributor:
     alias: Townsend, Rochelle S.
     gutenberg_agent_id: '923'
     url: http://www.gutenberg.org/2009/agents/923
+covers:
+- cover_type: archival
+  image_path: 51708-h/images/cover.jpg
 creator:
   author:
     agent_name: Tolstoy, Leo, graf
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51708#Tolstoi-for-the-young-Select-tales-from-Tolstoi
 gutenberg_issued: '2016-04-09'
 gutenberg_type: Text
 identifiers:
