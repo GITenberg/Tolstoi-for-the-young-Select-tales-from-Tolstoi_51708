@@ -1,0 +1,45 @@
+_repo: Tolstoi-for-the-young-Select-tales-from-Tolstoi_51708
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Sevier, Michel
+    alias: Sevier, Michael
+    birthdate: 1886
+    gutenberg_agent_id: '40584'
+    url: http://www.gutenberg.org/2009/agents/40584
+  translator:
+    agent_name: Townsend, R. S.
+    alias: Townsend, Rochelle S.
+    gutenberg_agent_id: '923'
+    url: http://www.gutenberg.org/2009/agents/923
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoy, Graf Leo
+    - Tolstoi, Leo
+    - Tolstoy, Lev N.
+    - Толстой, Лев Николаевич
+    - Tolstoï, Léon
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2016-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51708'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- GITenberg
+tableOfContents: Ivan the fool -- Where there is love, there is God also -- A prisoner
+  -- Emelian and the empty drum -- The great bear -- Three questions -- The godson.
+title: 'Tolstoi for the young: Select tales from Tolstoi'
+url: http://www.gutenberg.org/ebooks/51708
